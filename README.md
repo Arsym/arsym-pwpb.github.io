@@ -1,2 +1,2 @@
-# pwpb
-Tugas SMKN 2 Surakarta - RPL A
+# Responsive Web
+Tugas Akhir SMKN 2 Surakarta - RPL A
